@@ -1,17 +1,19 @@
 # Welcome to My GitHub Profile
 ## Introduction
-Hello there! Welcome to my GitHub profile. My name is G ANUSHREYA RAO, and I'm an aspiring full-stack developer. Although I don't have any projects to showcase just yet, I'm excited to share my journey of learning and growth as I work towards becoming a skilled developer.
+Hello there! Welcome to my GitHub profile. My name is G ANUSHREYA RAO, and I'm an aspiring full-stack developer and a Tech Blogger. Although I don't have any projects to showcase just yet, I'm excited to share my journey of learning and growth as I work towards becoming a skilled developer.
 ## About Me
 - Full Name: G ANUSHREYA RAO
 - Location: Hyderabad, India
 - Education:  I am actively honing my skills at Sharpener Tech Bootcamp, where I am immersed in the world of web development, databases, and software engineering.
-- Interests: Web development, Frontend, Backend, Databases, UI/UX design
+- Interests: Web development, Frontend, Backend, Databases, UI/UX design,Tech Blogging
  ## Learning Path
 - I'm actively engaged in expanding my knowledge and skills as a full-stack developer. Here are some of the areas I'm focusing on:
 -  Frontend Development: HTML, CSS, JavaScript, Reactjs
 - Backend Development: Node.js, Express.js, Django
 - Databases: SQL, MongoDB
 - Version Control: Git, GitHub
+  ## Tech Blog
+Apart from coding, I also have a passion for sharing my knowledge and insights through tech blogging. I regularly write articles on various topics related to web development, programming concepts, and technology trends. You can find my blog at https://hashnode.com/@anushreya
   ## Goals
 As an aspiring full-stack developer, I have set some goals to guide my learning journey:
 
