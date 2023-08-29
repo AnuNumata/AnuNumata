@@ -13,7 +13,7 @@ Hello there! Welcome to my GitHub profile. My name is G ANUSHREYA RAO, and I'm a
 - Databases: SQL, MongoDB
 - Version Control: Git, GitHub
   ## Tech Blog
-Apart from coding, I also have a passion for sharing my knowledge and insights through tech blogging. I regularly write articles on various topics related to web development, programming concepts, and technology trends. You can find my blog at https://hashnode.com/@anushreya
+Apart from coding, I also have a passion for sharing my knowledge and insights through tech blogging. I regularly write articles on various topics related to web development, programming concepts, and technology trends. You can find my blog at https://paasionatedeveloper.hashnode.dev/
   ## Goals
 As an aspiring full-stack developer, I have set some goals to guide my learning journey:
 
